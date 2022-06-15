@@ -3,6 +3,11 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Greedy"/>
 	<classpathentry kind="src" path="Recursion&amp;BackTracking"/>
+	<classpathentry kind="src" path="ArrayQuestions"/>
+	<classpathentry kind="src" path="Dynamic Programming"/>
+	<classpathentry kind="src" path="LLDQuestions"/>
+	<classpathentry kind="src" path="BinarySearch"/>
+	<classpathentry kind="src" path="Design Patterns"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
