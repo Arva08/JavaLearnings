@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="Design Patterns"/>
 	<classpathentry kind="src" path="Multithreading"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Streams"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
